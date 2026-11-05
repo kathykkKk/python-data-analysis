@@ -9,6 +9,8 @@
 | № | Тема | Данные | Блокнот |
 |---|---|---|---|
 | 1 | Иерархический кластерный анализ | [Digit Dataset](HW1/task.pdf) | [lab1.ipynb](HW1/lab1.ipynb) |
+| 2 | Кластерный анализ методом k-средних (k-means) | [Digit Dataset](HW1/task.pdf) | [lab1.ipynb](HW2/lab2.ipynb) |
+| 3 | Кластерный анализ методом DBSCAN | [Digit Dataset](HW1/task.pdf) | [lab1.ipynb](HW3/lab3.ipynb) |
 
 ## Структура репозитория
 
